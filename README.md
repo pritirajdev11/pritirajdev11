@@ -1,6 +1,6 @@
+![image](https://github.com/pritirajdev11/pritirajdev11/assets/103398379/bd611e4d-2e35-4a23-984b-56e749ddd669)
 <h1 align="center">Hi 👋, I'm Priti</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritirajdev11&label=Profile%20views&color=0e75b6&style=flat" alt="pritirajdev11" /> </p>
 
 - 🔭 I’m currently working on **Net Banking Project**
